@@ -1,4 +1,4 @@
-module github.com/Peri-Loves-Violence/peri
+module github.com/Peri-Loves-Violence/Peri
 
 go 1.17
 
